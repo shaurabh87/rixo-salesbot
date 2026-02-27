@@ -1,0 +1,16 @@
+{
+  "name": "rixo-salesbot",
+  "version": "1.0.0",
+  "description": "Rixo.in Telegram Salesbot on Glitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
